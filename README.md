@@ -1,1 +1,4 @@
 # Automated-Data-Pipeline
+This project aimed to develop an efficient web scraping strategy for collecting, cleaning, and analyzing automobile data from the leading website Autocar India. Utilizing Python and libraries such as BeautifulSoup and Requests, the data extraction and processing were fully automated, ensuring accuracy and consistency in the dataset.
+Exploratory Data Analysis (EDA) was performed using Pandas and Matplotlib, generating detailed summary statistics and insightful visualizations to uncover patterns and trends in the automobile industry. The project culminated in delivering a structured, clean dataset along with actionable analytical insights, providing a valuable resource for further research or business applications.
+The codes used in the project can be found here [Automated Data Pipeline code](https://nbviewer.org/github/roshan36691/Automated-Data-Pipeline/blob/main/Web%20Scraping.ipynb)
